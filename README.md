@@ -1,5 +1,3 @@
-* About
-
 I am a research scientist studying ice sheets and polar oceans as indicators of climate change. I am formally trained as a computer scientist and earth scientist focusing on polar glacier hydrology and oceanography. I regularly work or have worked in the following areas:
 
 + *Leading logistically complicated field campaigns* with international stakeholders and participants ranging from multi-national corporations to Ph.D. students.
